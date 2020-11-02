@@ -1,0 +1,11 @@
+Edit in master. Edited in master to check rebase. More changes from newbranch11.
+
+Edited in Github
+
+2nd Edit in Github
+
+<<<<<<< HEAD
+Edit in local repo
+=======
+3rd edit in Github
+>>>>>>> 00a557b14de02f0d17019597ae33d256ddc4d486
