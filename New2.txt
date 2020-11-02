@@ -1,1 +1,3 @@
-Edit in master. Edited in master to check rebase. More changes from newbranch11
+Edit in master. Edited in master to check rebase. More changes from newbranch11.
+
+Edited in Github
